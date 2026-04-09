@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/qulad/mac-haze-app.git
+[submodule "web"]
+	path = web
+	url = https://github.com/qulad/mac-haze-web.git
